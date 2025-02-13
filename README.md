@@ -25,7 +25,13 @@ JavaScript (minimal usage)
 
 Contributors:
 
-This project was developed by my team. (Names to be added manually.)
+This project was developed by my team. 
+-Yassine Lamsaaf
+-Abdessamad Mahjoubi
+-Malak
+-Hanane
+-Oumaima 
+-Fatima Ezzahra
 
 
 Future Improvements:
